@@ -1,0 +1,1 @@
+{"Knight": [{"life": 400, "speed": 5, "atack_power": 3, "atack_range": 1, "weapon": "short sword"}, {"life": 400, "speed": 5, "atack_power": 6, "atack_range": 2, "weapon": "long sword"}], "Archer": [{"life": 200, "speed": 7, "atack_power": 1, "atack_range": 5, "weapon": "short bow"}, {"life": 200, "speed": 7, "atack_power": 3, "atack_range": 10, "weapon": "long bow"}]}
